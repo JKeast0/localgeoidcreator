@@ -1,5 +1,5 @@
 # Local Geoid Creator
-Estimating local geoid model with least square method
+Estimating local geoid model GPS-levelling technique with JAVA.
 
 In geomatics we need physical height.Physical height is elevation from mean sea level. We take ellipsoidal heigth from GNSS.
 From the geoid determination techniques GNSS-levelling(geometric) method if we know some data points' orthometric and 
